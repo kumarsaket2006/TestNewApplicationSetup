@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here. Test changes goes here. Text added here.  
+        Put content here. Test changes goes here. Text added here.  New text.
     </p>
 </asp:Content>  
